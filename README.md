@@ -11,5 +11,10 @@ OmniTalk is an open-hardware off-grid communicator based on NRF51822 and LoRa. T
 <img src = "Off-grid Communicator Schematics.png" height = "300px" width="450px" >
 </p>
 
+# Layout
+<p align="center">
+<img src = "Board_Layout.png" height = "300px" width="500px" >
+</p>
+
 # License
 The source files are released under  [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/) .
