@@ -1,10 +1,11 @@
-<h1 align="center">OmniTalk</h1>
+<h1 align="center">Lo-Talk</h1>
 
 # About
 [![PCB](https://img.shields.io/badge/PCB_design-EagleCAD-EE8822.svg)](https://www.autodesk.com/products/eagle/overview)
 [![License](https://img.shields.io/badge/License-CC--BY--NC--ND--4.0-lightgrey.svg)](https://www.autodesk.com/products/eagle/overview)
 
-OmniTalk is an open-hardware off-grid communicator based on NRF51822 and LoRa. This device is currently under development and not completed.
+Lo-Talk is an open-hardware ISM band off-grid communicator based on Nordic's NRF51822 and Semtech's LoRa module on SX1278. This device can be helpful in node to node communication and mesh networking over the ISM band and has hardware support for SOS alerts.
+The device communication range was tested upto 500mm in an urban area without line of sight and maximum Tx Power 3W.
 
 # Schematic
 <p align="center">
